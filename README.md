@@ -13,4 +13,5 @@ Make sure that a sibling directory to code with the following subdirectories exi
 		|____brute_data
 
 Launch application command:
-$: python main.py <# of cities> <show graphs y/n> <heap algorithm y/n>
+
+	$: python main.py <# of cities> <show graphs y/n> <heap algorithm y/n>
