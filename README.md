@@ -2,6 +2,8 @@
 
 Before Launch:
 Make sure that a sibling directory to code with the following subdirectories exist:
+
+
 |____data
 		|____cities
 		|____genetic_data
