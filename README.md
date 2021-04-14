@@ -4,7 +4,7 @@ Before Launch:
 Make sure that a sibling directory to code with the following subdirectories exist:
 
 
-	|_\__data
+	|___data
 
 		|____cities
 		
