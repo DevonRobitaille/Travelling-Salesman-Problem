@@ -5,8 +5,11 @@ Make sure that a sibling directory to code with the following subdirectories exi
 
 
 |____data
+
 		|____cities
+		
 		|____genetic_data
+		
 		|____brute_data
 
 Launch application command:
